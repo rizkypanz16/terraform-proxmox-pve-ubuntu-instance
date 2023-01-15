@@ -11,6 +11,7 @@ git clone https://github.com/rizkypanz16/terraform-proxmox-pve-ubuntu-instance.g
 <proxmox_server_url>
 <username>@pam!<tokenId>
 <token_secret>
+<ssh_key>
 ```
 - Plan - Preview changes before applying.
 ```
