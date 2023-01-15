@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/rizkypanz16/terraform-proxmox-pve-ubuntu-instance.git
 ```
-- Change the configuration below with the aws configuration you have made 
+- Change the configuration below with the configuration you have made 
 ```
 <proxmox_server_url>
 <username>@pam!<tokenId>
