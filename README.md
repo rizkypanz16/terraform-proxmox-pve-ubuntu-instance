@@ -13,6 +13,10 @@ git clone https://github.com/rizkypanz16/terraform-proxmox-pve-ubuntu-instance.g
 <token_secret>
 <ssh_key>
 ```
+- Init - Initialized terraform provider
+```
+terraform init
+```
 - Plan - Preview changes before applying.
 ```
 terraform plan
